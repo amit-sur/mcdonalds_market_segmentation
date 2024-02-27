@@ -1,1 +1,1 @@
-### this segmentation has been completed as a practice task assigned to me by Feynn Labs during my internship.
+### This segmentation has been completed as a practice task assigned by Feynn Labs during the machine learning internship.
